@@ -1,4 +1,4 @@
-module github.com/KMatrenin/OtusGolang/tree/master/hw01_hello_otus
+module main
 
 go 1.18
 
